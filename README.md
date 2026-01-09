@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manikanta Ruppa</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Senior Data Scientist from India</h3>
 <img align= "right" alt= "coding"width= "400" src= "https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikantaruppa&label=Profile%20views&color=0e75b6&style=flat" alt="manikantaruppa" /> </p>
 
